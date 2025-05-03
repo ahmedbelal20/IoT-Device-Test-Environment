@@ -1,11 +1,10 @@
-# Copyright (c) 2025 Belal. All rights reserved.
+# Copyright (c) 2025 Ahmed Belal. All rights reserved.
 #
-# This source code is the intellectual property of Belal.
-# Unauthorized use, reproduction, modification, or distribution of this code,
-# in whole or in part, is strictly prohibited.
+# This source code is the intellectual property of Ahmed Belal.
+# Permission is granted to use and execute this code privately for evaluation or personal testing purposes only.
+# Redistribution, modification, or commercial use is strictly prohibited without explicit written permission.
 #
-# This code is NOT open-source and may not be copied, shared, or reused
-# in any form without explicit written permission from the author.
+# This code is NOT open-source and may not be shared or reused in any form without authorization.
 
 """ ----------- IMPORTS ----------- """
 
